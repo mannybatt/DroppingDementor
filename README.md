@@ -1,11 +1,12 @@
-# DroppingDementor
-Software needed for the operation of the Dropping Dementor Animatronic
+# The Dropping Dementor
+Software needed for the operation of the Dropping Dementor Animatronic!
 
-There are two parts, the dropping mechanism and the person detector.
+This was my first attempt to make a Halloween prop based off of ESP8266 microcontrollers, a project I absolutely loved from start to finish!
+There are two parts; The dropping mechanism and the person detector.
 <br>
-The detector uses a ultrasonic distance sensor to see if anyone is walking nearby.
+The detector uses an ultrasonic distance sensor to see when anyone is walking nearby.
 <br>
-The dropping mechanism moves a pin to allow a reel to spin to drop the ghost and then resets the ghost for the next scare.
+The dropping mechanism moves a locking pin to allow a reel to freely spin and drop the ghost! It then motorizes the reel and re-engages the locking pin to reset the ghost for the next scare.
 
 Here's a link to a video detailing its creation and use :)
 <a href="https://www.youtube.com/embed/YuqFqWiiLd8" target="_blank">
