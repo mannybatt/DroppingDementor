@@ -2,6 +2,7 @@
 Software needed for the operation of the Dropping Dementor Animatronic!
 
 This was my first attempt to make a Halloween prop based off of ESP8266 microcontrollers, a project I absolutely loved from start to finish!
+
 There are two parts; The dropping mechanism and the person detector.
 
 The detector uses an ultrasonic distance sensor to see when anyone is walking nearby.
