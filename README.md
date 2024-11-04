@@ -6,7 +6,6 @@ There are two parts; The dropping mechanism and the person detector.
 
 The detector uses an ultrasonic distance sensor to see when anyone is walking nearby.
 
-<br>
 The dropping mechanism moves a locking pin to allow a reel to freely spin and drop the ghost! It then motorizes the reel and re-engages the locking pin to reset the ghost for the next scare.
 
 <br><br>
